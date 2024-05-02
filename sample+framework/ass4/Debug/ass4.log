@@ -1,0 +1,20 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  QuickHull.cpp
+  Scene.cpp
+  shader.cpp
+  AssignmentScene.cpp
+C:\Users\jinya\Desktop\School\Year3\SEM3\CSD 3150\A2\sample+framework\ass4\AssignmentScene.cpp(375,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  GLApplication.cpp
+  Intersection.cpp
+  Generating Code...
+  ass4.vcxproj -> C:\Users\jinya\Desktop\School\Year3\SEM3\CSD 3150\A2\sample+framework\Debug\ass4.exe

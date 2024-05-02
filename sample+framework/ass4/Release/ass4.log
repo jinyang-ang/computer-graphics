@@ -1,0 +1,12 @@
+﻿  AssignmentScene.cpp
+C:\Users\jinya\Desktop\School\Year3\SEM3\CSD 3150\A2\sample+framework\ass4\AssignmentScene.cpp(376,37): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\jinya\Desktop\School\Year3\SEM3\CSD 3150\A2\sample+framework\ass4\AssignmentScene.cpp(376,37): warning C4305:         with
+C:\Users\jinya\Desktop\School\Year3\SEM3\CSD 3150\A2\sample+framework\ass4\AssignmentScene.cpp(376,37): warning C4305:         [
+C:\Users\jinya\Desktop\School\Year3\SEM3\CSD 3150\A2\sample+framework\ass4\AssignmentScene.cpp(376,37): warning C4305:             T=float
+C:\Users\jinya\Desktop\School\Year3\SEM3\CSD 3150\A2\sample+framework\ass4\AssignmentScene.cpp(376,37): warning C4305:         ]
+  Generating code
+  2 of 4037 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ass4.vcxproj -> C:\Users\jinya\Desktop\School\Year3\SEM3\CSD 3150\A2\sample+framework\Release\ass4.exe
